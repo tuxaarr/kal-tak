@@ -24,8 +24,11 @@ The app comprises three primary pages:
      - This page is thoughtfully designed to provide you with insights into the talented individuals who built the app.
 
 ## Developer
+- Tushar Chopra
+  - Registration Number: 21BEC1069
+  - Course: Electronics and Communication Engineering
+  - Year: 3rd
 - Shivraj Kampani
   - Registration Number: 21BCE1595
   - Course: Computer Science Engineering
   - Year: 3rd
-  - [GitHub Profile](https://github.com/Shivkamp)
